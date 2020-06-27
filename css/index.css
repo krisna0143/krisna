@@ -6,6 +6,10 @@
 #three {
     text-align: right;
     color: black;
+    margin-right: 50px;
+    margin-top: 50px;
+    font-size: 20px;
+
 
 }
 
@@ -23,20 +27,20 @@
 }
 
 #img1 {
-    float: left;
-    margin-left: auto;
+    text-align: left;
+    margin-left: 100px;
 }
 
 #img2 {
-    float: left;
+    text-align: center;
 
 }
 
 #img3 {  
-    float: left;
-    margin-right: auto;
+    text-align: right;
+    margin-right: 100px;
 }
 
 #bb {
-    background-color: blue;
+    background-color: lightgreen;
 }
