@@ -1,0 +1,32 @@
+p{
+    font-size: large;
+}
+.form{
+    flex-direction: row;
+    display: flex;
+    
+}
+.form1{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.rightform{
+   
+    width: 50%; 
+}
+.form3{
+    float: right;
+}
+.leftform{
+width: 50%;
+padding: 15px;
+}
+input,button{
+    width: 90%;
+    margin:20px;
+}
+.contact{
+    flex-direction: row;
+    display: flex;
+    justify-content: space-around;
+}
