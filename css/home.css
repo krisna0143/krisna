@@ -1,4 +1,4 @@
-p{
+p{ color: white;
     font-size: large;
     font-style: normal;
 }
@@ -10,10 +10,15 @@ p{
     padding: 5%;
     
 }
+.form8{
+    width: 251px;
+    padding: 5px;
+    
+}
 .form1{
     margin-left: 15%;
     margin-right: 15%;
-
+    
 }
 .rightform{
     border-style: solid;
@@ -29,21 +34,17 @@ input,button{
     width: 90%;
     margin:20px;
     padding: 10px;
-    color: orange;
+    
 }
 .contact{
     flex-direction: row;
     display: flex;
     justify-content: space-around;
-}
-.form8{
-    width: 251px;
-background-color: black;
     
 }
 .form7{
-    float: left;
-    
+    float: right;
+    text-align: center;
 }
 .form9
 ul {
@@ -52,7 +53,7 @@ ul {
     padding: 0;
     overflow: hidden;
     border-style: solid;
-    background-color: black;
+    background-color:green;
    }
   li {
     float: left;
@@ -72,3 +73,5 @@ ul {
   ::placeholder{
       color: black;
   }
+  
+  
