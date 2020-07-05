@@ -2,16 +2,26 @@
     float: left;
     width: 150px;
 }
-
-#three {
-    text-align: right;
-    color: black;
-    margin-right: 50px;
-    margin-top: 50px;
-    font-size: 20px;
-
-
-}
+.form9
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border-style: solid;
+    background-color:black;
+   }
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
 
 #steak_house {
     text-align: center;
