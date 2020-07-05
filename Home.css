@@ -1,62 +1,73 @@
-*{
-    margin: 10px;
+p{ color: white;
+    font-size: large;
+    font-style: normal;
+}
+.form{
+    flex-direction: row;
+    display: flex;
+    border-style: solid;
+    background-color: white;
+    padding: 5%;
+    
+}
+.form1{
+    margin-left: 15%;
+    margin-right: 15%;
+    
+}
+.rightform{
+    border-style: solid;
+    width: 50%; 
+    margin: 5px;
 }
 
-img {
-    display: block;
-    margin-left: 0px;
-    margin-right: auto;
-    margin-top: 0px;
-    margin-bottom: auto;
-    color: white;
-
+.leftform{
+width: 50%;
+padding: 5%;
 }
-
-body {
-    background-color: blue;
-    font-style: fantasy;
+input,button{
+    width: 90%;
+    margin:20px;
+    padding: 10px;
+        
 }
-h2{
-    margin-left:auto;
-    margin-right: auto;
-    margin-top: 50px;
-    margin-bottom: auto;
+.contact{
+    flex-direction: row;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.form7{
+    float: right;
     text-align: center;
-    text-decoration-style: solid;
-    color:white;
     
-
 }
-.hca{
-    display: block;
-    
-    margin-left: auto;
-    margin-right: 10px;
-    margin-top: 20px;
-    color: white;
-    text-decoration-color: white;
-
-}
-.li{
-    color:white;
-    margin: -10px;
-}
-
-.FDD{
-    display: block;
-    position: relative;
+.form9
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border-style: solid;
+    background-color:black;
+   }
+  li {
     float: left;
-    margin-top: auto;
-    margin-bottom: 200px;
-    Margin-left: 50px;
-    Margin-right: 150px;
-    color:white;
-
-
-}
-p{
-    color:white;
-    
-
-
-}
+  }
+  
+  li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+  ::placeholder{
+      color: black;
+  }
+  
+  
