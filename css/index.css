@@ -4,11 +4,26 @@
 
 }
 
-#three {
-    text-align: right;
-    margin-right: 50px;
-    margin-top: 50px;
-    font-size: 20px;
+.form9
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border-style: solid;
+    background-color:black;
+   }
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
 
 }
 
@@ -16,25 +31,25 @@
     text-align: center;
     margin-top: 15%;
     font-size: 50px;
-    font-family: fantasy;
+    
 }
 
 #about_restaurant {
     text-align: center;
     font-size: 35px;
-    font-family: fantasy;
+    
 }
 
 #img1 {
     text-align: left;
     margin-left: 100px;
-    font-family: fantasy;
+    
     font-size: 20px;
 }
 
 #img2 {
     text-align: center;
-    font-family: fantasy;
+    
     font-size: 20px;
 
 }
@@ -42,7 +57,7 @@
 #img3 {  
     text-align: right;
     margin-right: 100px;
-    font-family: fantasy;
+    
     font-size: 20px;
 }
 
@@ -53,7 +68,7 @@
 #restaurant {
     text-align: center;
     font-size: 25px;
-    font-family: fantasy;
+    
 }
 #ar {
     font-size: 40px;

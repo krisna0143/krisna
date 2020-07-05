@@ -10,14 +10,9 @@ p{ color: white;
     padding: 5%;
     
 }
-.form8{
-    width: 251px;
-    padding: 5px;
-    
-}
 .form1{
-    margin-left: 15%;
-    margin-right: 15%;
+    margin-left: 5%;
+    margin-right: 5%;
     
 }
 .rightform{
@@ -34,7 +29,7 @@ input,button{
     width: 90%;
     margin:20px;
     padding: 10px;
-    
+        
 }
 .contact{
     flex-direction: row;
@@ -54,7 +49,7 @@ ul {
     padding: 0;
     overflow: hidden;
     border-style: solid;
-    background-color:green;
+    background-color:black;
    }
   li {
     float: left;
