@@ -8,17 +8,11 @@ img {
     margin-right: auto;
     margin-top: 0px;
     margin-bottom: auto;
-    color:white;
     max-block-size: 250px;
-    
-
 }
-
 body {
-    background-color:blacksmoke;
     font-style: fantasy;
     text-size-adjust: 60px;
-    
 }
 h2{
     margin-left:auto;
@@ -27,9 +21,6 @@ h2{
     margin-bottom: auto;
     text-align: center;
     text-decoration-style: solid;
-    color:white;
-    
-
 }
 .form9
 ul {
@@ -55,7 +46,6 @@ ul {
     color:black;
     margin: -10px;
 }
-
 .FDD{
     display: block;
     position: relative;
@@ -64,13 +54,4 @@ ul {
     margin-bottom: 200px;
     Margin-left: 50px;
     Margin-right: 150px;
-    color:white;
-}
-p{
-    color:white;
-}
-.BG{
-    display: block;
-    size: auto;
-    position: fixed;
 }
